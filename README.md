@@ -1,2 +1,3 @@
 # hello-world
-greeting planet
+greetings planet
+Self-taught/re-self-teaching programmer.
